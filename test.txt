@@ -1,0 +1,8 @@
+(1, u'Audi', 52642)
+(2, u'Mercedes', 57127)
+(3, u'Skoda', 9000)
+(4, u'Volvo', 29000)
+(5, u'Bentley', 350000)
+(6, u'Citroen', 21000)
+(7, u'Hummer', 41400)
+(8, u'Volkswagen', 21600)
